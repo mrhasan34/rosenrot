@@ -1,0 +1,33 @@
+nav {
+    background-color: #4CAF50;
+    padding: 10px;
+    border: 2px solid #333; /* Adding a frame around the navbar */
+    border-radius: 8px; /* Rounded corners for the frame */
+    display: flex;
+    justify-content: flex-end; /* Align buttons to the right */
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-left: 20px; /* Increase space between buttons */
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px; /* Adding some padding for better spacing */
+    border: 1px solid transparent; /* Adding transparent border for consistent sizing */
+    border-radius: 4px; /* Rounded corners for buttons */
+  }
+  
+  nav ul li a:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+    border: 1px solid white; /* Adding border on hover */
+  }
+  
