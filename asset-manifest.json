@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rosenrot/static/css/main.35ac5446.css",
-    "main.js": "/rosenrot/static/js/main.2bac9fe2.js",
+    "main.js": "/rosenrot/static/js/main.a6e89945.js",
     "static/js/453.0f57af39.chunk.js": "/rosenrot/static/js/453.0f57af39.chunk.js",
     "index.html": "/rosenrot/index.html",
     "static/media/experiment.txt": "/rosenrot/static/media/experiment.f19570a588c7546780ec.txt",
@@ -14,11 +14,11 @@
     "static/media/story.txt": "/rosenrot/static/media/story.23e56d730155719aa358.txt",
     "static/media/art.txt": "/rosenrot/static/media/art.3f6140fc3eca27e91a03.txt",
     "main.35ac5446.css.map": "/rosenrot/static/css/main.35ac5446.css.map",
-    "main.2bac9fe2.js.map": "/rosenrot/static/js/main.2bac9fe2.js.map",
+    "main.a6e89945.js.map": "/rosenrot/static/js/main.a6e89945.js.map",
     "453.0f57af39.chunk.js.map": "/rosenrot/static/js/453.0f57af39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35ac5446.css",
-    "static/js/main.2bac9fe2.js"
+    "static/js/main.a6e89945.js"
   ]
 }
