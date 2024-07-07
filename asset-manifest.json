@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/depoadi/static/css/main.35ac5446.css",
+    "main.js": "/depoadi/static/js/main.e464a19d.js",
+    "static/js/453.0f57af39.chunk.js": "/depoadi/static/js/453.0f57af39.chunk.js",
+    "index.html": "/depoadi/index.html",
+    "static/media/experiment.txt": "/depoadi/static/media/experiment.f19570a588c7546780ec.txt",
+    "static/media/personaldevelopment.txt": "/depoadi/static/media/personaldevelopment.8167da28fa27bd0b357e.txt",
+    "static/media/moviereview.txt": "/depoadi/static/media/moviereview.f7019f201db78f6060bd.txt",
+    "static/media/bookreview.txt": "/depoadi/static/media/bookreview.5bb71b4edb24e50fb28d.txt",
+    "static/media/clipreview.txt": "/depoadi/static/media/clipreview.3d70a9ab7578981139a1.txt",
+    "static/media/philosophy.txt": "/depoadi/static/media/philosophy.aee587351f6a270a9b51.txt",
+    "static/media/science.txt": "/depoadi/static/media/science.f462c3a03fe136c9c39e.txt",
+    "static/media/story.txt": "/depoadi/static/media/story.23e56d730155719aa358.txt",
+    "static/media/art.txt": "/depoadi/static/media/art.3f6140fc3eca27e91a03.txt",
+    "main.35ac5446.css.map": "/depoadi/static/css/main.35ac5446.css.map",
+    "main.e464a19d.js.map": "/depoadi/static/js/main.e464a19d.js.map",
+    "453.0f57af39.chunk.js.map": "/depoadi/static/js/453.0f57af39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ac5446.css",
+    "static/js/main.e464a19d.js"
+  ]
+}
