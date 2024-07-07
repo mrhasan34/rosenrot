@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home">
       <h1>HOMEPAGE</h1>
-      <p>Welcome to the reading site.</p>
+      <p>Bedişim hoşgeldin siteme <3 <3 <3 <3 .</p>
     </div>
   );
 };
