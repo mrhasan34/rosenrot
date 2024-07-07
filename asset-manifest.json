@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/rosenrot/static/css/main.35ac5446.css",
-    "main.js": "/rosenrot/static/js/main.a6e89945.js",
+    "main.js": "/rosenrot/static/js/main.2cf57008.js",
     "static/js/453.0f57af39.chunk.js": "/rosenrot/static/js/453.0f57af39.chunk.js",
     "index.html": "/rosenrot/index.html",
     "static/media/experiment.txt": "/rosenrot/static/media/experiment.f19570a588c7546780ec.txt",
     "static/media/personaldevelopment.txt": "/rosenrot/static/media/personaldevelopment.8167da28fa27bd0b357e.txt",
     "static/media/moviereview.txt": "/rosenrot/static/media/moviereview.f7019f201db78f6060bd.txt",
     "static/media/bookreview.txt": "/rosenrot/static/media/bookreview.5bb71b4edb24e50fb28d.txt",
-    "static/media/clipreview.txt": "/rosenrot/static/media/clipreview.3d70a9ab7578981139a1.txt",
     "static/media/philosophy.txt": "/rosenrot/static/media/philosophy.aee587351f6a270a9b51.txt",
     "static/media/science.txt": "/rosenrot/static/media/science.f462c3a03fe136c9c39e.txt",
     "static/media/story.txt": "/rosenrot/static/media/story.23e56d730155719aa358.txt",
-    "static/media/art.txt": "/rosenrot/static/media/art.3f6140fc3eca27e91a03.txt",
+    "static/media/art.txt": "/rosenrot/static/media/art.78e2f3493263fbaa9c0a.txt",
+    "static/media/clipreview.txt": "/rosenrot/static/media/clipreview.2ecf6ed520702a0c35df.txt",
     "main.35ac5446.css.map": "/rosenrot/static/css/main.35ac5446.css.map",
-    "main.a6e89945.js.map": "/rosenrot/static/js/main.a6e89945.js.map",
+    "main.2cf57008.js.map": "/rosenrot/static/js/main.2cf57008.js.map",
     "453.0f57af39.chunk.js.map": "/rosenrot/static/js/453.0f57af39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35ac5446.css",
-    "static/js/main.a6e89945.js"
+    "static/js/main.2cf57008.js"
   ]
 }
