@@ -6,16 +6,16 @@ const Navbar = () => {
   return (
     <nav>
       <ul>
-        <li><Link to="/">HOME</Link></li>
-        <li><Link to="/experiment">EXPERIMENT</Link></li>
-        <li><Link to="/story">STORY</Link></li>
-        <li><Link to="/art">ART</Link></li>
-        <li><Link to="/science">SCIENCE</Link></li>
-        <li><Link to="/philosophy">PHILOSOPHY</Link></li>
-        <li><Link to="/bookreview">BOOK REVIEW</Link></li>
-        <li><Link to="/moviereview">MOVIE REVIEW</Link></li>
-        <li><Link to="/clipreview">CLIP REVIEW</Link></li>
-        <li><Link to="/personaldevelopment">PERSONAL DEVELOPMENT</Link></li>
+        <li><Link to="/">ANA SAYFA</Link></li>
+        <li><Link to="/experiment">DENEME</Link></li>
+        <li><Link to="/story">HİKAYE</Link></li>
+        <li><Link to="/art">SANAT</Link></li>
+        <li><Link to="/science">BİLİM</Link></li>
+        <li><Link to="/philosophy">FELSEFE</Link></li>
+        <li><Link to="/bookreview">KİTAP İNCELEME</Link></li>
+        <li><Link to="/moviereview">DİZİ/FİLM İNCELEME</Link></li>
+        <li><Link to="/clipreview">CLIP İNCELEME</Link></li>
+        <li><Link to="/personaldevelopment">KİŞİSEL GELİŞİM</Link></li>
       </ul>
     </nav>
   );
