@@ -1,33 +1,78 @@
 nav {
-    background-color: #4CAF50;
-    padding: 10px;
-    border: 2px solid #333; /* Adding a frame around the navbar */
-    border-radius: 8px; /* Rounded corners for the frame */
-    display: flex;
-    justify-content: flex-end; /* Align buttons to the right */
+  background-color: #4CAF50;
+  padding: 10px;
+  border: 2px solid #333;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.menu-icon {
+  display: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.nav-links.open {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 50px;
+  right: 10px;
+  background-color: #4CAF50;
+  border: 2px solid #333;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.nav-links li {
+  margin-left: 20px;
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.nav-links li a:hover {
+  background-color: #45a049;
+  border: 1px solid white;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .menu-icon {
+    display: block;
   }
-  
-  nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
   }
-  
-  nav ul li {
-    margin-left: 20px; /* Increase space between buttons */
+
+  .nav-links li {
+    margin-left: 0;
+    margin-bottom: 10px;
   }
-  
-  nav ul li a {
-    color: white;
-    text-decoration: none;
-    padding: 8px 16px; /* Adding some padding for better spacing */
-    border: 1px solid transparent; /* Adding transparent border for consistent sizing */
-    border-radius: 4px; /* Rounded corners for buttons */
+
+  .nav-links li a {
+    display: block;
+    width: 100%;
+    text-align: center;
   }
-  
-  nav ul li a:hover {
-    background-color: #45a049; /* Slightly darker green on hover */
-    border: 1px solid white; /* Adding border on hover */
-  }
-  
+}

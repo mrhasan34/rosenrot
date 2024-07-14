@@ -1,11 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
 const Navbar = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
+
   return (
     <nav>
-      <ul>
+      <div className="menu-icon" onClick={toggleMenu}>
+        &#9776; {/* Menu icon represented by 3 lines */}
+      </div>
+      <ul className={isOpen ? "nav-links open" : "nav-links"}>
         <li><Link to="/">ANA SAYFA</Link></li>
         <li><Link to="/experiment">DENEME</Link></li>
         <li><Link to="/story">HİKAYE</Link></li>
