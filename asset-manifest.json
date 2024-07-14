@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rosenrot/static/css/main.35ac5446.css",
-    "main.js": "/rosenrot/static/js/main.fa4a6303.js",
+    "main.js": "/rosenrot/static/js/main.05b4bda3.js",
     "static/js/453.0f57af39.chunk.js": "/rosenrot/static/js/453.0f57af39.chunk.js",
     "static/media/clipreview.txt": "/rosenrot/static/media/clipreview.3c26913627ead2f71543.txt",
     "index.html": "/rosenrot/index.html",
@@ -14,11 +14,11 @@
     "static/media/story.txt": "/rosenrot/static/media/story.23e56d730155719aa358.txt",
     "static/media/art.txt": "/rosenrot/static/media/art.78e2f3493263fbaa9c0a.txt",
     "main.35ac5446.css.map": "/rosenrot/static/css/main.35ac5446.css.map",
-    "main.fa4a6303.js.map": "/rosenrot/static/js/main.fa4a6303.js.map",
+    "main.05b4bda3.js.map": "/rosenrot/static/js/main.05b4bda3.js.map",
     "453.0f57af39.chunk.js.map": "/rosenrot/static/js/453.0f57af39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35ac5446.css",
-    "static/js/main.fa4a6303.js"
+    "static/js/main.05b4bda3.js"
   ]
 }
