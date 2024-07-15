@@ -23,7 +23,7 @@ const Navbar = () => {
         <li><Link to="/philosophy">FELSEFE</Link></li>
         <li><Link to="/bookreview">KİTAP İNCELEME</Link></li>
         <li><Link to="/moviereview">DİZİ/FİLM İNCELEME</Link></li>
-        <li><Link to="/clipreview">CLIP İNCELEME</Link></li>
+        <li><Link to="/clipreview">KLİP İNCELEME</Link></li>
         <li><Link to="/personaldevelopment">KİŞİSEL GELİŞİM</Link></li>
       </ul>
     </nav>
